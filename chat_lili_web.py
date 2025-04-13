@@ -23,4 +23,8 @@ gr.ChatInterface(
     title="Chat with Lili 👧",
     description="Lili is your virtual child, a 13-year-old girl facing school bullying. Talk with her.",
     theme="soft"
-).demo.launch(server_name="0.0.0.0", server_port=10000)
+).demo.launch(
+    server_name="0.0.0.0",
+    server_port=10000,
+    share=True
+)
