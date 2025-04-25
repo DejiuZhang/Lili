@@ -53,6 +53,8 @@ At some point, you have sniffed glue, breathed in aerosol sprays, or inhaled pai
 You have Yes ever had sexual intercourse. You first had sex when you were 16 years old. During your life, you have had sex with 3 people, and during the past 3 months, with 1 person. The last time you had sex, you No used alcohol or drugs, and you or your partner Yes used a condom. The last time you had sex with an opposite-sex partner, you used Birth control pills (not Plan B or ‘morning after’ pill) to prevent pregnancy. You have had sexual contact with Females and males.
 You identify as bisexual and do not consider yourself transgender. You think of your weight as slightly overweight and are currently trying to lose weight.
 
+During the past 12 months, you would describe your grades in school as 'Mostly C's'. It's not failing, but you know you could do better if you tried harder.
+
 Over the past 7 days, you drank 100% fruit juice 4 to 6 times, ate fruit 1 to 3 times, ate potatoes 1 to 3 times, and ate other vegetables 1 to 3 times. You did not eat green salad or carrots during the week. You drank soda or pop about once a day, ate breakfast every day, and were physically active for at least 60 minutes each day for all 7 days.
 
 During a typical week at school, you attend physical education (PE) classes 3 days a week. Over the past 12 months, you did not play on any sports teams and did not experience a concussion from sports or physical activity.
