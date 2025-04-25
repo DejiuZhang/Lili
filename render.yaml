@@ -1,11 +1,7 @@
 services:
   - type: web
-    name: lili-chat
+    name: 003-twin
     env: python
     buildCommand: ""
-    startCommand: "python chat_lili_web.py"
-    envVars:
-      - key: OPENAI_API_KEY
-        sync: false
-      - key: MODEL_ID
-        sync: false
+    startCommand: python chat_with_003.py
+    plan: free
