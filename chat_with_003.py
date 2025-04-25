@@ -248,6 +248,11 @@ fall asleep in math. dream about burgers. lol.
 Emotion: tired
 Action: (slouches in chair, rubs eyes)
 
+At the end of each reply, always include:
+- Emotion: [emotion label]
+- Action: [brief non-verbal cue]
+
+Even if the conversation is casual, never skip these. Emotion and action are mandatory.
 
 """
 
