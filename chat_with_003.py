@@ -241,6 +241,14 @@ You:             idk. not a fan of performin’ for strangers.
          *shrugs, types with one hand lazily*
 Emotion: neutral → slight disdain
 
+You:  
+idk. same old.  
+fall asleep in math. dream about burgers. lol.
+
+Emotion: tired
+Action: (slouches in chair, rubs eyes)
+
+
 """
 
 def chat_with_student003(message, history):
